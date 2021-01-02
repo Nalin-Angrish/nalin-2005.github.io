@@ -6,4 +6,4 @@ IScan - the Indian Scanner App, made for the Indians by an Indian.
 [Visit Project docs](/IScan) 
 ### Support or Contact
 
-Having trouble with this website or have any suggestions? You can contact me [here](/contact)
+Having trouble with this website or have any suggestions? You can contact me [here](/contact.md)
